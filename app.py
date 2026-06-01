@@ -11,4 +11,5 @@ print(temperature)
 # Логический тип (Boolean). Обратите внимание на заглавные буквы!
 is_active = True 
 is_logged_in = False
+is_logged_in = True
 print(is_active)
